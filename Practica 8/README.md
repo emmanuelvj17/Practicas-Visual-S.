@@ -1,0 +1,6 @@
+![image](https://github.com/emmanuelvj17/Practicas-Visual-S./assets/148415063/994faba6-9596-4037-885a-253f7cf78ef6)
+![image](https://github.com/emmanuelvj17/Practicas-Visual-S./assets/148415063/1e41d443-394b-4e65-b4f4-5d07d65c04ca)
+![image](https://github.com/emmanuelvj17/Practicas-Visual-S./assets/148415063/57aef40f-7aee-4f71-9338-77aa7f854954)
+![image](https://github.com/emmanuelvj17/Practicas-Visual-S./assets/148415063/a3c867ed-5c94-4881-82c3-7cb1df4300b6)
+![image](https://github.com/emmanuelvj17/Practicas-Visual-S./assets/148415063/fa103425-c8c9-4db0-93e5-4e9a772f7ce6)
+![image](https://github.com/emmanuelvj17/Practicas-Visual-S./assets/148415063/afa9e7ec-e962-4f97-8d81-2d8c144c9c53)
