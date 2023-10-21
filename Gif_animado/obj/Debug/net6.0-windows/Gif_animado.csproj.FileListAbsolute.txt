@@ -1,0 +1,17 @@
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\bin\Debug\net6.0-windows\Gif_animado.exe
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\bin\Debug\net6.0-windows\Gif_animado.deps.json
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\bin\Debug\net6.0-windows\Gif_animado.runtimeconfig.json
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\bin\Debug\net6.0-windows\Gif_animado.dll
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\bin\Debug\net6.0-windows\Gif_animado.pdb
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\obj\Debug\net6.0-windows\Gif_animado.Form1.resources
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\obj\Debug\net6.0-windows\Gif_animado.Properties.Resources.resources
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\obj\Debug\net6.0-windows\Gif_animado.csproj.GenerateResource.cache
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\obj\Debug\net6.0-windows\Gif_animado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\obj\Debug\net6.0-windows\Gif_animado.AssemblyInfoInputs.cache
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\obj\Debug\net6.0-windows\Gif_animado.AssemblyInfo.cs
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\obj\Debug\net6.0-windows\Gif_animado.csproj.CoreCompileInputs.cache
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\obj\Debug\net6.0-windows\Gif_animado.dll
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\obj\Debug\net6.0-windows\refint\Gif_animado.dll
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\obj\Debug\net6.0-windows\Gif_animado.pdb
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\obj\Debug\net6.0-windows\Gif_animado.genruntimeconfig.cache
+C:\Users\GEMELAS\Desktop\PRACTICAS V.S\Gif_animado\obj\Debug\net6.0-windows\ref\Gif_animado.dll
